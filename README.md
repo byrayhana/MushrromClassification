@@ -18,6 +18,3 @@ This dataset has been prepared by applying augmentation techniques to the mushro
 - Matplotlib
 - PIL
 - Scikit-learn
-
-You can install the required Python packages using the following command:
-
